@@ -4,7 +4,7 @@ export const enUS: NzLocale = {
   locale: 'en-US',
 
   Pagination: {
-    itemsPerPage: '%num% / page',
+    itemsPerPage: '%num% / page cycy',
     jumpTo: 'Goto',
     page: '',
     forwardPage: '%num% pages forward',
